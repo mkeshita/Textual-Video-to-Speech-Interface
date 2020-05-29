@@ -16,13 +16,25 @@ For getting the image sequences, frames are cut at regular interval from the vid
 
 ![Flow Diagram](./uploads/flow_diagram.png)
 
+----------------------------------------------------------------------------
+
 ### Use Case Diagram
 
 ![Use Case Diagram](./uploads/UseCaseDiagram.jpg)
 
+----------------------------------------------------------------------------
+
 ### Sequence Diagram
 
 ![Sequence Diagram](./uploads/SequenceDiagram.jpg)
+
+----------------------------------------------------------------------------
+
+### Activity Diagram
+
+![Sequence Diagram](./uploads/ActivityDiagram.jpg)
+
+----------------------------------------------------------------------------
 
 ### Technologies Used
 
@@ -31,7 +43,9 @@ For getting the image sequences, frames are cut at regular interval from the vid
 * Optical Character Recognition : Pytesseract
 * Text to Speech : gTTS
 
-An example of input and output can be found [here](http://home.iitj.ac.in/~ug201313008/project2.html)
+----------------------------------------------------------------------------
+
+An example of input and output can be found [here](http://home.iitj.ac.in/~ug201313008/project2.html).
 
 ----------------------
 I. Code Compile & Run
